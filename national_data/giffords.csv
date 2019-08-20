@@ -1,0 +1,151 @@
+,Year,State,Grade,State_GPA
+0,2014,California,A-,3.7
+1,2014,Connecticut,A-,3.7
+2,2014,New Jersey,A-,3.7
+3,2014,Maryland,A-,3.7
+4,2014,Massachusetts,A-,3.7
+5,2014,New York,A-,3.7
+6,2014,Hawaii,B+,3.3
+7,2014,Illinois,B+,3.3
+8,2014,Rhode Island,B+,3.3
+9,2014,Delaware,B,3.0
+10,2014,Washington,B-,2.7
+11,2014,Minnesota,C,2.0
+12,2014,Pennsylvania,C,2.0
+13,2014,Oregon,C,2.0
+14,2014,Michigan,C,2.0
+15,2014,Colorado,C-,1.7
+16,2014,Iowa,C-,1.7
+17,2014,Wisconsin,D,1.0
+18,2014,Ohio,D,1.0
+19,2014,Virginia,D,1.0
+20,2014,Nebraska,D,1.0
+21,2014,New Hampshire,D,1.0
+22,2014,Indiana,D-,0.7
+23,2014,West Virginia,D-,0.7
+24,2014,Oklahoma,F,0.0
+25,2014,North Carolina,F,0.0
+26,2014,Nevada,F,0.0
+27,2014,South Carolina,F,0.0
+28,2014,Georgia,F,0.0
+29,2014,Florida,F,0.0
+30,2014,North Dakota,F,0.0
+31,2014,Tennessee,F,0.0
+32,2014,New Mexico,F,0.0
+33,2014,Texas,F,0.0
+34,2014,Maine,F,0.0
+35,2014,Alabama,F,0.0
+36,2014,Montana,F,0.0
+37,2014,Arkansas,F,0.0
+38,2014,Utah,F,0.0
+39,2014,South Dakota,F,0.0
+40,2014,Missouri,F,0.0
+41,2014,Vermont,F,0.0
+42,2014,Kentucky,F,0.0
+43,2014,Louisiana,F,0.0
+44,2014,Idaho,F,0.0
+45,2014,Alaska,F,0.0
+46,2014,Arizona,F,0.0
+47,2014,Wyoming,F,0.0
+48,2014,Mississippi,F,0.0
+49,2014,Kansas,F,0.0
+50,2015,California,A,4.0
+51,2015,Connecticut,A-,3.7
+52,2015,New Jersey,A-,3.7
+53,2015,Massachusetts,A-,3.7
+54,2015,Maryland,A-,3.7
+55,2015,New York,A-,3.7
+56,2015,Hawaii,A-,3.7
+57,2015,Illinois,B+,3.3
+58,2015,Rhode Island,B+,3.3
+59,2015,Washington,B,3.0
+60,2015,Delaware,B,3.0
+61,2015,Minnesota,C+,2.3
+62,2015,Pennsylvania,C,2.0
+63,2015,Colorado,C,2.0
+64,2015,Oregon,C,2.0
+65,2015,Iowa,C,2.0
+66,2015,Michigan,C,2.0
+67,2015,Nevada,C-,1.7
+68,2015,Wisconsin,C-,1.7
+69,2015,Nebraska,D,1.0
+70,2015,Ohio,D,1.0
+71,2015,Virginia,D,1.0
+72,2015,New Hampshire,D,1.0
+73,2015,Indiana,D-,0.7
+74,2015,North Carolina,D-,0.7
+75,2015,Florida,F,0.0
+76,2015,Oklahoma,F,0.0
+77,2015,Tennessee,F,0.0
+78,2015,Georgia,F,0.0
+79,2015,New Mexico,F,0.0
+80,2015,North Dakota,F,0.0
+81,2015,South Carolina,F,0.0
+82,2015,Utah,F,0.0
+83,2015,Texas,F,0.0
+84,2015,West Virginia,F,0.0
+85,2015,Maine,F,0.0
+86,2015,Alabama,F,0.0
+87,2015,Arkansas,F,0.0
+88,2015,Montana,F,0.0
+89,2015,South Dakota,F,0.0
+90,2015,Vermont,F,0.0
+91,2015,Kentucky,F,0.0
+92,2015,Louisiana,F,0.0
+93,2015,Alaska,F,0.0
+94,2015,Wyoming,F,0.0
+95,2015,Idaho,F,0.0
+96,2015,Arizona,F,0.0
+97,2015,Kansas,F,0.0
+98,2015,Missouri,F,0.0
+99,2015,Mississippi,F,0.0
+100,2016,Alabama,F,0.0
+101,2016,Alaska,F,0.0
+102,2016,Arizona,F,0.0
+103,2016,Arkansas,F,0.0
+104,2016,California,A,4.0
+105,2016,Colorado,C,2.0
+106,2016,Connecticut,A-,3.7
+107,2016,Delaware,B,3.0
+108,2016,Florida,F,0.0
+109,2016,Georgia,F,0.0
+110,2016,Hawaii,A-,3.7
+111,2016,Idaho,F,0.0
+112,2016,Illinois,B+,3.3
+113,2016,Indiana,D-,0.7
+114,2016,Iowa,C-,1.7
+115,2016,Kansas,F,0.0
+116,2016,Kentucky,F,0.0
+117,2016,Louisiana,F,0.0
+118,2016,Maine,F,0.0
+119,2016,Maryland,A-,3.7
+120,2016,Massachusetts,A-,3.7
+121,2016,Michigan,C,2.0
+122,2016,Minnesota,C+,2.3
+123,2016,Mississippi,F,0.0
+124,2016,Missouri,F,0.0
+125,2016,Montana,F,0.0
+126,2016,Nebraska,D,1.0
+127,2016,Nevada,D,1.0
+128,2016,New Hampshire,F,0.0
+129,2016,New Jersey,A-,3.7
+130,2016,New Mexico,F,0.0
+131,2016,New York,A-,3.7
+132,2016,North Carolina,D-,0.7
+133,2016,North Dakota,F,0.0
+134,2016,Ohio,D,1.0
+135,2016,Oklahoma,F,0.0
+136,2016,Oregon,C,2.0
+137,2016,Pennsylvania,C,2.0
+138,2016,Rhode Island,B+,3.3
+139,2016,South Carolina,F,0.0
+140,2016,South Dakota,F,0.0
+141,2016,Tennessee,D-,0.7
+142,2016,Texas,F,0.0
+143,2016,Utah,F,0.0
+144,2016,Vermont,F,0.0
+145,2016,Virginia,D,1.0
+146,2016,Washington,B,3.0
+147,2016,West Virginia,F,0.0
+148,2016,Wisconsin,C-,1.7
+149,2016,Wyoming,F,0.0
