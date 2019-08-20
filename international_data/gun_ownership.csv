@@ -1,0 +1,232 @@
+,Country,Ownership Rate
+0,United States,120.5
+1,Falkland Islands,62.1
+2,Yemen,52.8
+3,New Caledonia,42.5
+4,Montenegro,39.1
+5,Serbia,39.1
+6,Canada,34.7
+7,Uruguay,34.7
+8,Cyprus,34.0
+9,Finland,32.4
+10,Lebanon,31.9
+11,Iceland,31.7
+12,Bosnia and Herzegovina,31.2
+13,Austria,30.0
+14,North Macedonia,29.8
+15,Liechtenstein,28.8
+16,Norway,28.8
+17,Malta,28.3
+18,Switzerland,27.6
+19,New Zealand,26.3
+20,Kosovo,23.8
+21,Sweden,23.1
+22,Greenland,22.3
+23,Pakistan,22.3
+24,Portugal,21.3
+25,France,19.6
+26,French Guiana,19.6
+27,Germany,19.6
+28,Iraq,19.6
+29,Monaco,19.6
+30,Réunion,19.6
+31,Luxembourg,18.9
+32,Bahamas,18.8
+33,Jordan,18.7
+34,Venezuela,18.5
+35,Greece,17.6
+36,Northern Cyprus,17.4
+37,Kuwait,16.7
+38,Oman,16.7
+39,Paraguay,16.7
+40,Qatar,16.7
+41,Saudi Arabia,16.7
+42,United Arab Emirates,16.7
+43,U.S. Virgin Islands,16.6
+44,Turkey,16.5
+45,Suriname,15.9
+46,Guyana,15.8
+47,Slovenia,15.6
+48,Namibia,15.4
+49,Thailand,15.1
+50,Australia,14.5
+51,Italy,14.4
+52,San Marino,14.4
+53,Andorra,14.1
+54,Honduras,14.1
+55,Channel Islands,14.0
+56,Croatia,13.7
+57,Lithuania,13.6
+58,Libya,13.3
+59,Mexico,12.9
+60,Bahrain,12.8
+61,Belgium,12.7
+62,Afghanistan,12.5
+63,Czech Republic,12.5
+64,Equatorial Guinea,12.5
+65,Somalia,12.4
+66,Puntland,12.3
+67,Russia,12.3
+68,Chile,12.1
+69,Guatemala,12.1
+70,Albania,12.0
+71,El Salvador,12.0
+72,Somaliland,11.9
+73,Guam,11.5
+74,Puerto Rico,11.5
+75,Angola,11.2
+76,Northern Ireland,11.0
+77,Panama,10.8
+78,Hungary,10.5
+79,Latvia,10.5
+80,Colombia,10.1
+81,Georgia,10.1
+82,Samoa,10.1
+83,Belize,10.0
+84,Costa Rica,10.0
+85,Denmark,9.9
+86,Faroe Islands,9.9
+87,Ukraine,9.9
+88,South Africa,9.7
+89,South Sudan,9.6
+90,Cayman Islands,9.2
+91,Jamaica,8.8
+92,Guadeloupe,8.5
+93,Martinique,8.5
+94,Saint Martin,8.5
+95,Bulgaria,8.4
+96,Brazil,8.3
+97,Mauritius,8.3
+98,Syria,8.2
+99,Ghana,8.0
+100,Tonga,8.0
+101,Mongolia,7.9
+102,Spain,7.5
+103,Argentina,7.4
+104,Dominican Republic,7.4
+105,Iran,7.3
+106,Ireland,7.2
+107,Israel,6.7
+108,Sudan,6.6
+109,Gambia,6.5
+110,Slovakia,6.5
+111,Dominica,6.2
+112,Maldives,6.2
+113,Armenia,6.1
+114,Belarus,6.1
+115,Cape Verde,5.7
+116,Scotland,5.6
+117,Antigua and Barbuda,5.4
+118,Montserrat,5.4
+119,India,5.3
+120,Nicaragua,5.2
+121,Estonia,5.0
+122,Lesotho,4.8
+123,Morocco,4.8
+124,Swaziland,4.8
+125,Bermuda,4.6
+126,England and Wales,4.6
+127,Grenada,4.6
+128,Cambodia,4.5
+129,Mozambique,4.5
+130,Ivory Coast,4.4
+131,Saint Martin,4.2
+132,Botswana,4.1
+133,Egypt,4.1
+134,Gibraltar,4.1
+135,Seychelles,4.1
+136,Vanuatu,3.9
+137,Azerbaijan,3.6
+138,China,3.6
+139,Macau,3.6
+140,Hong Kong,3.6
+141,Philippines,3.6
+142,Barbados,3.5
+143,Gabon,3.4
+144,Saint Kitts and Nevis,3.4
+145,Saint Lucia,3.4
+146,Saint Vincent and the Grenadines,3.4
+147,São Tomé and Príncipe,3.4
+148,Turks and Caicos Islands,3.3
+149,Nigeria,3.2
+150,Trinidad and Tobago,3.2
+151,Djibouti,3.1
+152,Laos,3.0
+153,Moldova,3.0
+154,Kazakhstan,2.8
+155,Kyrgyzstan,2.8
+156,Mauritania,2.8
+157,Zimbabwe,2.8
+158,Aruba,2.6
+159,Curaçao,2.6
+160,Haiti,2.6
+161,Netherlands,2.6
+162,Northern Mariana Islands,2.6
+163,Romania,2.6
+164,French Polynesia,2.5
+165,Poland,2.5
+166,Congo,2.4
+167,Ecuador,2.4
+168,Sri Lanka,2.4
+169,Algeria,2.1
+170,Cameroon,2.1
+171,Cuba,2.1
+172,Liberia,2.1
+173,Bolivia,2.0
+174,Burundi,2.0
+175,Peru,2.0
+176,Senegal,2.0
+177,Central African Republic,1.8
+178,Myanmar,1.6
+179,Vietnam,1.6
+180,Comoros,1.5
+181,Guinea-Bissau,1.5
+182,Kenya,1.5
+183,Nepal,1.5
+184,Brunei,1.4
+185,Democratic Republic of the Congo,1.2
+186,Tuvalu,1.2
+187,Mali,1.1
+188,Palestine,1.1
+189,Tunisia,1.1
+190,Chad,1.0
+191,Guinea,1.0
+192,Papua New Guinea,1.0
+193,Burkina Faso,0.9
+194,Zambia,0.9
+195,Bhutan,0.8
+196,Kiribati,0.8
+197,Tanzania,0.8
+198,Togo,0.8
+199,Uganda,0.8
+200,British Virgin Islands,0.8
+201,American Samoa,0.7
+202,Madagascar,0.7
+203,Malaysia,0.7
+204,Federated States of Micronesia,0.7
+205,Fiji,0.5
+206,Marshall Islands,0.5
+207,Niger,0.5
+208,Palau,0.5
+209,Rwanda,0.5
+210,Sierra Leone,0.5
+211,Bangladesh,0.4
+212,Eritrea,0.4
+213,Ethiopia,0.4
+214,Tajikistan,0.4
+215,Turkmenistan,0.4
+216,Uzbekistan,0.4
+217,Benin,0.3
+218,Japan,0.3
+219,North Korea,0.3
+220,Malawi,0.3
+221,Singapore,0.3
+222,East Timor,0.3
+223,South Korea,0.2
+224,Solomon Islands,0.2
+225,Christmas Island,0.0
+226,Holy See,0.0
+227,Indonesia,0.0
+228,Nauru,0.0
+229,Taiwan,0.0
+230,United Kingdom of Great Britain and Northern Ireland,4.9
