@@ -27,10 +27,10 @@ Rather than rely on an opaque grading scale, [Everytown Research](https://everyt
 ### Global Terrorism Database
 In addition to homicide rates, we would also like to know what type of impact, if any, gun laws have on mass shootings. University of Maryland's [Global Terrorism Database](https://www.start.umd.edu/gtd/) provides international data for all types of terrorist attacks, including breakdown by weapon type.
 
-## Defining the Variables
+## Redefining the Variables
 The most common metric used to support arguments that gun laws are effective is the firearm mortality rate. Multiple studies show that as gun laws get stronger, firearm mortality rates drop. Here, we see that as state law grades increase, firearm mortality rates decrease:
 
-<img src='/readme_images/firearm_mortality.png' style='width: 500px'>
+<img src='/readme_images/firearm_mortality.png' style='width: 500px;'>
 
 Despite the clear correlation, gun rights advocates generally point to two problems with this approach:
 
@@ -53,4 +53,21 @@ These results show that there is validity to objections raised by gun rights adv
 - **Target Variables**: Overall homicide rate and frequency of mass shootings.
 
 Taking this approach, we can gain more insight to specific features of gun laws that are most effective, and we eliminate concerns highlighted in point 2 by gun rights advocates.
+
+## Preprocessing & Feature Engineering
+Everytown Research frames features as a series of yes/no questions, though application can be varied. For example, a question that asks if individuals with felonies are restricted from owning guns, the answer might apply to a few predefined categories:
+
+- Handgun Possession
+- Handgun Purchase
+- Long Gun/Rifle Possession
+- Long Gun/Rifle Purchase
+
+All categories are weighted equally. So, responses to questions are ranked according to how restrictive the laws are. For example, a yes response to the above mentioned question for all categories would get a score of 4. If the response was yes for only handgun possession and no for everything else, the score would be 1. The higher the score, the more restrictive that feature of law.
+
+The mean of neighbor state responses are also calculated and used as predictors as well. This provides greater insight to understanding how neighbor state laws can undermine laws in the target state.
+
+## Backward Elimination
+It doesn't help to use all 85 features of gun laws to make predictions. Instead, we want to isolate a select few questions that can be used to accurately predict homicide rates and have substantial variance in the rates such that the difference is, in a practical sense, meaningful. 
+
+To accomplish this, a multiple linear regression model was created, and features were removed one at a time until all remaining features were found to be statistically significant. From there, features were ranked based on their correllation coefficients, with the top 20 remaining for more in depth analysis. A correlation heat map with question categories and numbers can be found below.
 
